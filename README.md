@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ravinabeniwal/leetcode/tree/master/0007-reverse-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/ravinabeniwal/leetcode/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/ravinabeniwal/leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
