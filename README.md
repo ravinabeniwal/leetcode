@@ -37,17 +37,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ravinabeniwal/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ravinabeniwal/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/ravinabeniwal/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ravinabeniwal/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ravinabeniwal/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ravinabeniwal/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/ravinabeniwal/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ravinabeniwal/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ravinabeniwal/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/ravinabeniwal/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
