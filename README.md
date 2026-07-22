@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ravinabeniwal/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ravinabeniwal/leetcode/tree/master/0007-reverse-integer) |
 ## Two Pointers
 |  |
@@ -97,10 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ravinabeniwal/leetcode/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/ravinabeniwal/leetcode/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ravinabeniwal/leetcode/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/ravinabeniwal/leetcode/tree/master/0143-reorder-list) |
 ## Design
 |  |
