@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ravinabeniwal/leetcode/tree/master/0496-next-greater-element-i) |
 | [0888-fair-candy-swap](https://github.com/ravinabeniwal/leetcode/tree/master/0888-fair-candy-swap) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ravinabeniwal/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/ravinabeniwal/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/ravinabeniwal/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ravinabeniwal/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ravinabeniwal/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ravinabeniwal/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/ravinabeniwal/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Stack
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ravinabeniwal/leetcode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/ravinabeniwal/leetcode/tree/master/0383-ransom-note) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ravinabeniwal/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/ravinabeniwal/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
