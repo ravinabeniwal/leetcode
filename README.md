@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ravinabeniwal/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ravinabeniwal/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ravinabeniwal/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0278-first-bad-version](https://github.com/ravinabeniwal/leetcode/tree/master/0278-first-bad-version) |
 | [0888-fair-candy-swap](https://github.com/ravinabeniwal/leetcode/tree/master/0888-fair-candy-swap) |
 | [0897-increasing-order-search-tree](https://github.com/ravinabeniwal/leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Linked List
@@ -219,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/ravinabeniwal/leetcode/tree/master/1051-height-checker) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ravinabeniwal/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
