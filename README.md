@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/ravinabeniwal/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2733-neither-minimum-nor-maximum](https://github.com/ravinabeniwal/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2965-find-missing-and-repeated-values](https://github.com/ravinabeniwal/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/ravinabeniwal/leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 ## Hash Table
 |  |
 | ------- |
