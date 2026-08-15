@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ravinabeniwal/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ravinabeniwal/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/ravinabeniwal/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/ravinabeniwal/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ravinabeniwal/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ravinabeniwal/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ravinabeniwal/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/ravinabeniwal/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ravinabeniwal/leetcode/tree/master/0383-ransom-note) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ravinabeniwal/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ravinabeniwal/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/ravinabeniwal/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
