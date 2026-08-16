@@ -1,22 +1,22 @@
 class Solution {
 public:
     vector<int> rearrangeArray(vector<int>& nums) {
-        queue<int>st1;
-        queue<int>st2;
         int n=nums.size();
+        stack<int>even;
+        stack<int>odd;
+        vector<int>ans;
         for(int i=0;i<n;i++){
-            if(nums[i]>=0) st1.push(nums[i]);
-            else st2.push(nums[i]);
+            if(nums[i]>0) even.push(nums[i]);
+            else odd.push(nums[i]);
         }
-        
-        vector<int >ans;
-    while(!st1.empty() && !st2.empty()){
-            ans.push_back(st1.front());
-            st1.pop();
-             ans.push_back(st2.front());
-            st2.pop();
-
+        while(!even.empty() && !odd.empty()){
+            ans.push_back(odd.top());
+            odd.pop();
+            ans.push_back(even.top());
+            even.pop();
         }
+        reverse(ans.begin(),ans.end());
         return ans;
+
     }
 };
