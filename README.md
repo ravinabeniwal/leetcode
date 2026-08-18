@@ -164,11 +164,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ravinabeniwal/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ravinabeniwal/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ravinabeniwal/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/ravinabeniwal/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ravinabeniwal/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ravinabeniwal/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/ravinabeniwal/leetcode/tree/master/0933-number-of-recent-calls) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ravinabeniwal/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Dynamic Programming
 |  |
@@ -242,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ravinabeniwal/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ravinabeniwal/leetcode/tree/master/0229-majority-element-ii) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/ravinabeniwal/leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
