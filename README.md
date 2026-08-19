@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ravinabeniwal/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ravinabeniwal/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/ravinabeniwal/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ravinabeniwal/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ravinabeniwal/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ravinabeniwal/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2733-neither-minimum-nor-maximum](https://github.com/ravinabeniwal/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/ravinabeniwal/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ravinabeniwal/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ravinabeniwal/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ravinabeniwal/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2390-removing-stars-from-a-string](https://github.com/ravinabeniwal/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ravinabeniwal/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ravinabeniwal/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/ravinabeniwal/leetcode/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ravinabeniwal/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ravinabeniwal/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Dynamic Programming
 |  |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ravinabeniwal/leetcode/tree/master/0054-spiral-matrix) |
 | [0844-backspace-string-compare](https://github.com/ravinabeniwal/leetcode/tree/master/0844-backspace-string-compare) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ravinabeniwal/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ravinabeniwal/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ravinabeniwal/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/ravinabeniwal/leetcode/tree/master/2390-removing-stars-from-a-string) |
