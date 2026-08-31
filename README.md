@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ravinabeniwal/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ravinabeniwal/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ravinabeniwal/leetcode/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/ravinabeniwal/leetcode/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/ravinabeniwal/leetcode/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/ravinabeniwal/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ravinabeniwal/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ravinabeniwal/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ravinabeniwal/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ravinabeniwal/leetcode/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/ravinabeniwal/leetcode/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/ravinabeniwal/leetcode/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/ravinabeniwal/leetcode/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/ravinabeniwal/leetcode/tree/master/0888-fair-candy-swap) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/ravinabeniwal/leetcode/tree/master/0274-h-index) |
 | [1051-height-checker](https://github.com/ravinabeniwal/leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ravinabeniwal/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bubble Sort
