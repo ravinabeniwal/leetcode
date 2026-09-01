@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/ravinabeniwal/leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/ravinabeniwal/leetcode/tree/master/0275-h-index-ii) |
 | [0414-third-maximum-number](https://github.com/ravinabeniwal/leetcode/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/ravinabeniwal/leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/ravinabeniwal/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ravinabeniwal/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0645-set-mismatch](https://github.com/ravinabeniwal/leetcode/tree/master/0645-set-mismatch) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/ravinabeniwal/leetcode/tree/master/0143-reorder-list) |
 | [0344-reverse-string](https://github.com/ravinabeniwal/leetcode/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/ravinabeniwal/leetcode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/ravinabeniwal/leetcode/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/ravinabeniwal/leetcode/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ravinabeniwal/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/ravinabeniwal/leetcode/tree/master/0455-assign-cookies) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ravinabeniwal/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1833-maximum-ice-cream-bars](https://github.com/ravinabeniwal/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Simulation
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ravinabeniwal/leetcode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/ravinabeniwal/leetcode/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/ravinabeniwal/leetcode/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/ravinabeniwal/leetcode/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/ravinabeniwal/leetcode/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/ravinabeniwal/leetcode/tree/master/0888-fair-candy-swap) |
 | [1051-height-checker](https://github.com/ravinabeniwal/leetcode/tree/master/1051-height-checker) |
@@ -292,5 +296,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/ravinabeniwal/leetcode/tree/master/0455-assign-cookies) |
 | [1122-relative-sort-array](https://github.com/ravinabeniwal/leetcode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
