@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ravinabeniwal/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ravinabeniwal/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ravinabeniwal/leetcode/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/ravinabeniwal/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravinabeniwal/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ravinabeniwal/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ravinabeniwal/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ravinabeniwal/leetcode/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/ravinabeniwal/leetcode/tree/master/0143-reorder-list) |
 | [0344-reverse-string](https://github.com/ravinabeniwal/leetcode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/ravinabeniwal/leetcode/tree/master/0455-assign-cookies) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ravinabeniwal/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ravinabeniwal/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ravinabeniwal/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ravinabeniwal/leetcode/tree/master/0229-majority-element-ii) |
