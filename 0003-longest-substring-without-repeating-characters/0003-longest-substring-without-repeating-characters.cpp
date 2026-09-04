@@ -27,7 +27,7 @@ public:
 
                 ans.push_back(s[j]);
 
-                count = max(count, (int)ans.size());
+                // count = max(count, (int)ans.size());
             }
 
             count = max(count, (int)ans.size());
