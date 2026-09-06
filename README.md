@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ravinabeniwal/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ravinabeniwal/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0645-set-mismatch](https://github.com/ravinabeniwal/leetcode/tree/master/0645-set-mismatch) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ravinabeniwal/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0888-fair-candy-swap](https://github.com/ravinabeniwal/leetcode/tree/master/0888-fair-candy-swap) |
 | [1051-height-checker](https://github.com/ravinabeniwal/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/ravinabeniwal/leetcode/tree/master/1122-relative-sort-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/ravinabeniwal/leetcode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/ravinabeniwal/leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/ravinabeniwal/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ravinabeniwal/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0888-fair-candy-swap](https://github.com/ravinabeniwal/leetcode/tree/master/0888-fair-candy-swap) |
 | [0897-increasing-order-search-tree](https://github.com/ravinabeniwal/leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Linked List
@@ -306,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ravinabeniwal/leetcode/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/ravinabeniwal/leetcode/tree/master/0455-assign-cookies) |
 | [1122-relative-sort-array](https://github.com/ravinabeniwal/leetcode/tree/master/1122-relative-sort-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ravinabeniwal/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
