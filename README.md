@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/ravinabeniwal/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ravinabeniwal/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2363-merge-similar-items](https://github.com/ravinabeniwal/leetcode/tree/master/2363-merge-similar-items) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/ravinabeniwal/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2733-neither-minimum-nor-maximum](https://github.com/ravinabeniwal/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ravinabeniwal/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/ravinabeniwal/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ravinabeniwal/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ravinabeniwal/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2363-merge-similar-items](https://github.com/ravinabeniwal/leetcode/tree/master/2363-merge-similar-items) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/ravinabeniwal/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2965-find-missing-and-repeated-values](https://github.com/ravinabeniwal/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/ravinabeniwal/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Divide and Conquer
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/ravinabeniwal/leetcode/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/ravinabeniwal/leetcode/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ravinabeniwal/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/ravinabeniwal/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
 | ------- |
