@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/ravinabeniwal/leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ravinabeniwal/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ravinabeniwal/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2363-merge-similar-items](https://github.com/ravinabeniwal/leetcode/tree/master/2363-merge-similar-items) |
 | [2733-neither-minimum-nor-maximum](https://github.com/ravinabeniwal/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ravinabeniwal/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/ravinabeniwal/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ravinabeniwal/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ravinabeniwal/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ravinabeniwal/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2363-merge-similar-items](https://github.com/ravinabeniwal/leetcode/tree/master/2363-merge-similar-items) |
 | [2965-find-missing-and-repeated-values](https://github.com/ravinabeniwal/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/ravinabeniwal/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Divide and Conquer
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ravinabeniwal/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/ravinabeniwal/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/ravinabeniwal/leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2363-merge-similar-items](https://github.com/ravinabeniwal/leetcode/tree/master/2363-merge-similar-items) |
 | [2733-neither-minimum-nor-maximum](https://github.com/ravinabeniwal/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Matrix
 |  |
@@ -317,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ravinabeniwal/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2363-merge-similar-items](https://github.com/ravinabeniwal/leetcode/tree/master/2363-merge-similar-items) |
 <!---LeetCode Topics End-->
