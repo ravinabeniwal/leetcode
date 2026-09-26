@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/ravinabeniwal/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/ravinabeniwal/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/ravinabeniwal/leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ravinabeniwal/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ravinabeniwal/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/ravinabeniwal/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2965-find-missing-and-repeated-values](https://github.com/ravinabeniwal/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/ravinabeniwal/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ravinabeniwal/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ravinabeniwal/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
