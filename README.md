@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/ravinabeniwal/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ravinabeniwal/leetcode/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/ravinabeniwal/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0645-set-mismatch](https://github.com/ravinabeniwal/leetcode/tree/master/0645-set-mismatch) |
 ## Math
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ravinabeniwal/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ravinabeniwal/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ravinabeniwal/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/ravinabeniwal/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ravinabeniwal/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/ravinabeniwal/leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/ravinabeniwal/leetcode/tree/master/0897-increasing-order-search-tree) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ravinabeniwal/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ravinabeniwal/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ravinabeniwal/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/ravinabeniwal/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/ravinabeniwal/leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Monotonic Stack
 |  |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ravinabeniwal/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ravinabeniwal/leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ravinabeniwal/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/ravinabeniwal/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0275-h-index-ii](https://github.com/ravinabeniwal/leetcode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/ravinabeniwal/leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/ravinabeniwal/leetcode/tree/master/0374-guess-number-higher-or-lower) |
