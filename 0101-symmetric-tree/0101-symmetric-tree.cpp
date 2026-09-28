@@ -14,8 +14,8 @@ public:
 bool check(TreeNode* left,TreeNode* right){
     if(!left && !right) return 1;
     if(!left || !right) return 0;
-   
-    return (left->val ==right->val) && check(left->left,right->right) && check(left->right,right->left);
+   if((left->val !=right->val)) return 0;
+    return  check(left->left,right->right) && check(left->right,right->left);
 }
     bool isSymmetric(TreeNode* root) {
         if(root==NULL) return 0;
