@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ravinabeniwal/leetcode/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/ravinabeniwal/leetcode/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ravinabeniwal/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/ravinabeniwal/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/ravinabeniwal/leetcode/tree/master/0888-fair-candy-swap) |
 | [1051-height-checker](https://github.com/ravinabeniwal/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/ravinabeniwal/leetcode/tree/master/1122-relative-sort-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/ravinabeniwal/leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/ravinabeniwal/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ravinabeniwal/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/ravinabeniwal/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/ravinabeniwal/leetcode/tree/master/0888-fair-candy-swap) |
 | [0897-increasing-order-search-tree](https://github.com/ravinabeniwal/leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Linked List
