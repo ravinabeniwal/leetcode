@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ravinabeniwal/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/ravinabeniwal/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ravinabeniwal/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/ravinabeniwal/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1833-maximum-ice-cream-bars](https://github.com/ravinabeniwal/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/ravinabeniwal/leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ravinabeniwal/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/ravinabeniwal/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/ravinabeniwal/leetcode/tree/master/0888-fair-candy-swap) |
 | [0897-increasing-order-search-tree](https://github.com/ravinabeniwal/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/ravinabeniwal/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ravinabeniwal/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Linked List
 |  |
