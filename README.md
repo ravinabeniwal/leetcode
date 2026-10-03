@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ravinabeniwal/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ravinabeniwal/leetcode/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/ravinabeniwal/leetcode/tree/master/0070-climbing-stairs) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ravinabeniwal/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2525-categorize-box-according-to-criteria](https://github.com/ravinabeniwal/leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [2965-find-missing-and-repeated-values](https://github.com/ravinabeniwal/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ravinabeniwal/leetcode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/ravinabeniwal/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/ravinabeniwal/leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravinabeniwal/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
@@ -384,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/ravinabeniwal/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ravinabeniwal/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ravinabeniwal/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ravinabeniwal/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
