@@ -1,17 +1,18 @@
 class Solution {
 public:
+bool isvarb(char c){
+    return c=='a'|| c=='e' || c=='i' || c=='o' || c=='u' || c=='A' || c=='E' || c=='I' || c=='O' || c=='U';
+}
     string reverseVowels(string s) {
         int n=s.size();
-        int i=0, j=n-1;
+        int i=0,j=n-1;
         while(i<j){
-        i=s.find_first_of("aeiouAEIOU",i);
-            j=s.find_last_of("aeiouAEIOU",j);
-            if(i<j){
-                swap(s[i],s[j]);
-                i++;
-                j--;
-            }
-        }
-        return s;
+            if(!isvarb(s[i])) i++;
+            else if(!isvarb(s[j])) j--;
+           else{
+            swap(s[i],s[j]);
+            i++; j--;      
+             } }
+             return s;
     }
 };
