@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ravinabeniwal/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ravinabeniwal/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ravinabeniwal/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2810-faulty-keyboard](https://github.com/ravinabeniwal/leetcode/tree/master/2810-faulty-keyboard) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/ravinabeniwal/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Stack
 |  |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/ravinabeniwal/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ravinabeniwal/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/ravinabeniwal/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2810-faulty-keyboard](https://github.com/ravinabeniwal/leetcode/tree/master/2810-faulty-keyboard) |
 ## Sorting
 |  |
 | ------- |
