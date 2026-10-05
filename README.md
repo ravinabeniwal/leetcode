@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ravinabeniwal/leetcode/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/ravinabeniwal/leetcode/tree/master/0143-reorder-list) |
 | [0344-reverse-string](https://github.com/ravinabeniwal/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ravinabeniwal/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/ravinabeniwal/leetcode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/ravinabeniwal/leetcode/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/ravinabeniwal/leetcode/tree/master/0844-backspace-string-compare) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ravinabeniwal/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ravinabeniwal/leetcode/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/ravinabeniwal/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ravinabeniwal/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/ravinabeniwal/leetcode/tree/master/0383-ransom-note) |
 | [0541-reverse-string-ii](https://github.com/ravinabeniwal/leetcode/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/ravinabeniwal/leetcode/tree/master/0844-backspace-string-compare) |
