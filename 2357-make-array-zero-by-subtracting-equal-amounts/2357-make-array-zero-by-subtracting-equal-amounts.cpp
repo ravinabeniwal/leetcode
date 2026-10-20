@@ -1,14 +1,11 @@
 class Solution {
 public:
     int minimumOperations(vector<int>& nums) {
-      sort(nums.begin(),nums.end());
-      int count=0;
-       for(int i=0;i<nums.size();i++) {
-        if(nums[i]>0){
-            count++;
-        while(i+1<nums.size() && nums[i]==nums[i+1]){
-        i++;
-       }}}
-       return count;
+    set<int>st;
+    for(int x:nums){
+        if(x>0)
+        st.insert(x);
+    }
+    return st.size();
     }
 };
