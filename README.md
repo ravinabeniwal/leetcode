@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ravinabeniwal/leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/ravinabeniwal/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ravinabeniwal/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/ravinabeniwal/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2525-categorize-box-according-to-criteria](https://github.com/ravinabeniwal/leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [2965-find-missing-and-repeated-values](https://github.com/ravinabeniwal/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ravinabeniwal/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ravinabeniwal/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ravinabeniwal/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/ravinabeniwal/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ravinabeniwal/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ravinabeniwal/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/ravinabeniwal/leetcode/tree/master/2810-faulty-keyboard) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ravinabeniwal/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/ravinabeniwal/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/ravinabeniwal/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Backtracking
 |  |
 | ------- |
