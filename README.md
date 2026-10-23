@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ravinabeniwal/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ravinabeniwal/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/ravinabeniwal/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1652-defuse-the-bomb](https://github.com/ravinabeniwal/leetcode/tree/master/1652-defuse-the-bomb) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ravinabeniwal/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/ravinabeniwal/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1833-maximum-ice-cream-bars](https://github.com/ravinabeniwal/leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ravinabeniwal/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ravinabeniwal/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ravinabeniwal/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1652-defuse-the-bomb](https://github.com/ravinabeniwal/leetcode/tree/master/1652-defuse-the-bomb) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/ravinabeniwal/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Backtracking
 |  |
