@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ravinabeniwal/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ravinabeniwal/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ravinabeniwal/leetcode/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/ravinabeniwal/leetcode/tree/master/0143-reorder-list) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ravinabeniwal/leetcode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ravinabeniwal/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ravinabeniwal/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0143-reorder-list](https://github.com/ravinabeniwal/leetcode/tree/master/0143-reorder-list) |
 ## Recursion
